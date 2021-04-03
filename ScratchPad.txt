@@ -1,0 +1,19 @@
+#############################################################################
+Documentation Link:
+https://github.com/rest-assured/rest-assured/wiki/GettingStarted#rest-assured
+
+Usage Guide:
+https://github.com/rest-assured/rest-assured/wiki/Usage
+
+
+
+DSL: Domain Specific Language
+
+
+
+
+
+#######################################TODO######################################
+1. need to implement auto start bat file. Its getting bit complex
+2. Instead of Hashmap set values in system properties
+    Create a property class

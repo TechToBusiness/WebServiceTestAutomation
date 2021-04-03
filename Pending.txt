@@ -1,0 +1,2 @@
+GET /todos (200) ?filter
+DELETE /todos/{id} (200) all
